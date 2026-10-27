@@ -1,5 +1,82 @@
 {
-  "currentWorkflows": [],
+  "currentWorkflows": [
+    {
+      "id": "3gTad7mJOFUZcFdJ",
+      "name": "NCAY CHATBOT",
+      "updatedAt": "2026-10-19T14:11:37.561Z"
+    },
+    {
+      "id": "73MLSm9epIZm6lKj",
+      "name": "WHATSAPP CHATBOT",
+      "updatedAt": "2026-10-22T15:20:00.779Z"
+    },
+    {
+      "id": "9xRnuXnrxYBVLLp3",
+      "name": "YouTube AI Automation - Trend Research, Approval, Video, Upload",
+      "updatedAt": "2026-10-26T18:26:24.803Z"
+    },
+    {
+      "id": "FjClc3jykwwCQE5e",
+      "name": "workflow",
+      "updatedAt": "2026-10-26T19:06:19.734Z"
+    },
+    {
+      "id": "HeFVUsuLRezQQhnc",
+      "name": "YouTube AI Automation - Trend Research, Approval, Video, Upload",
+      "updatedAt": "2026-10-23T18:15:05.411Z"
+    },
+    {
+      "id": "NWZCW4kti0nnsk73",
+      "name": "HUMAN IN THE LOOP",
+      "updatedAt": "2026-10-22T15:22:52.698Z"
+    },
+    {
+      "id": "ST0aISxRm5s6eEv9",
+      "name": "TELEGRAM VOICE AGENT",
+      "updatedAt": "2026-10-26T19:09:38.643Z"
+    },
+    {
+      "id": "Ue0Brlx51K72lfvP",
+      "name": "AI VOICE AGENT",
+      "updatedAt": "2026-10-27T14:56:18.707Z"
+    },
+    {
+      "id": "VYn9iWBA72ZZSFgw",
+      "name": "JOB SEARCH",
+      "updatedAt": "2026-10-21T14:21:46.953Z"
+    },
+    {
+      "id": "WbbFo5cHWgtrk79n",
+      "name": "Interactive CV Builder and Template Generator PDF",
+      "updatedAt": "2026-10-26T17:09:26.417Z"
+    },
+    {
+      "id": "hqwyRQkujf2WTEg7",
+      "name": "My workflow 4",
+      "updatedAt": "2026-10-20T11:20:27.000Z"
+    },
+    {
+      "id": "mt6lxsm1w4YoFLi2",
+      "name": "Interactive CV Builder and Template Generator HTML",
+      "updatedAt": "2026-10-26T19:07:16.608Z"
+    },
+    {
+      "id": "tvCIb8y3dVeMg7Dw",
+      "name": "DISCORD",
+      "updatedAt": "2026-10-21T14:21:22.789Z"
+    },
+    {
+      "id": "xiGm2fHVJ5U5GcVr",
+      "name": "My workflow 3",
+      "updatedAt": "2026-10-10T13:04:14.664Z"
+    },
+    {
+      "id": "yWxvS6aESwjLNz7p",
+      "name": "n8n to GitHub Workflow Backup",
+      "updatedAt": "2026-10-27T17:37:34.998Z"
+    }
+  ],
   "deletedWorkflows": [],
-  "lastSuccessfulBackup": null
+  "lastSuccessfulBackup": "2026-10-27T17:37:45.591Z",
+  "lastWorkflowCount": 15
 }
