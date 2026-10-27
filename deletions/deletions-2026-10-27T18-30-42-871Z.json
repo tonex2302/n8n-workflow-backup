@@ -1,0 +1,18 @@
+{
+  "detectedAt": "2026-10-27T18:30:42.871Z",
+  "deletedCount": 2,
+  "deletedWorkflows": [
+    {
+      "id": "FjClc3jykwwCQE5e",
+      "name": "workflow",
+      "detectedDeletedAt": "2026-10-27T18:30:42.871Z",
+      "lastKnownUpdatedAt": "2026-10-26T19:06:19.734Z"
+    },
+    {
+      "id": "xiGm2fHVJ5U5GcVr",
+      "name": "My workflow 3",
+      "detectedDeletedAt": "2026-10-27T18:30:42.871Z",
+      "lastKnownUpdatedAt": "2026-10-10T13:04:14.664Z"
+    }
+  ]
+}
