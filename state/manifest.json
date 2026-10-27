@@ -16,11 +16,6 @@
       "updatedAt": "2026-10-26T18:26:24.803Z"
     },
     {
-      "id": "FjClc3jykwwCQE5e",
-      "name": "workflow",
-      "updatedAt": "2026-10-26T19:06:19.734Z"
-    },
-    {
       "id": "HeFVUsuLRezQQhnc",
       "name": "YouTube AI Automation - Trend Research, Approval, Video, Upload",
       "updatedAt": "2026-10-23T18:15:05.411Z"
@@ -33,7 +28,7 @@
     {
       "id": "ST0aISxRm5s6eEv9",
       "name": "TELEGRAM VOICE AGENT",
-      "updatedAt": "2026-10-26T19:09:38.643Z"
+      "updatedAt": "2026-10-27T18:30:37.410Z"
     },
     {
       "id": "Ue0Brlx51K72lfvP",
@@ -63,17 +58,12 @@
     {
       "id": "s3EHxwqj4cSYlgXw",
       "name": "Interactive CV Builder and Template Generator",
-      "updatedAt": "2026-10-27T18:08:08.384Z"
+      "updatedAt": "2026-10-27T18:24:32.000Z"
     },
     {
       "id": "tvCIb8y3dVeMg7Dw",
       "name": "DISCORD",
-      "updatedAt": "2026-10-21T14:21:22.789Z"
-    },
-    {
-      "id": "xiGm2fHVJ5U5GcVr",
-      "name": "My workflow 3",
-      "updatedAt": "2026-10-10T13:04:14.664Z"
+      "updatedAt": "2026-10-27T18:27:24.141Z"
     },
     {
       "id": "yWxvS6aESwjLNz7p",
@@ -81,7 +71,20 @@
       "updatedAt": "2026-10-27T17:37:34.998Z"
     }
   ],
-  "deletedWorkflows": [],
-  "lastSuccessfulBackup": "2026-10-27T18:15:43.339Z",
-  "lastWorkflowCount": 16
+  "deletedWorkflows": [
+    {
+      "id": "FjClc3jykwwCQE5e",
+      "name": "workflow",
+      "detectedDeletedAt": "2026-10-27T18:30:42.871Z",
+      "lastKnownUpdatedAt": "2026-10-26T19:06:19.734Z"
+    },
+    {
+      "id": "xiGm2fHVJ5U5GcVr",
+      "name": "My workflow 3",
+      "detectedDeletedAt": "2026-10-27T18:30:42.871Z",
+      "lastKnownUpdatedAt": "2026-10-10T13:04:14.664Z"
+    }
+  ],
+  "lastSuccessfulBackup": "2026-10-27T18:30:42.871Z",
+  "lastWorkflowCount": 14
 }
