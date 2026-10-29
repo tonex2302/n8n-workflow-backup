@@ -28,7 +28,7 @@
     {
       "id": "ST0aISxRm5s6eEv9",
       "name": "TELEGRAM VOICE AGENT",
-      "updatedAt": "2026-10-27T18:45:12.385Z"
+      "updatedAt": "2026-10-27T18:47:09.260Z"
     },
     {
       "id": "Ue0Brlx51K72lfvP",
@@ -46,9 +46,19 @@
       "updatedAt": "2026-10-26T17:09:26.417Z"
     },
     {
+      "id": "fX8vsxTuSI6nJ44N",
+      "name": "Telegram Newsletter Approval",
+      "updatedAt": "2026-10-28T21:13:39.595Z"
+    },
+    {
       "id": "hqwyRQkujf2WTEg7",
       "name": "My workflow 4",
       "updatedAt": "2026-10-20T11:20:27.000Z"
+    },
+    {
+      "id": "mJCOeK4lgjVzNZoi",
+      "name": "CROSSCHECK NEW LETTER",
+      "updatedAt": "2026-10-29T17:26:33.157Z"
     },
     {
       "id": "mt6lxsm1w4YoFLi2",
@@ -68,7 +78,7 @@
     {
       "id": "yWxvS6aESwjLNz7p",
       "name": "n8n to GitHub Workflow Backup",
-      "updatedAt": "2026-10-27T17:37:34.998Z"
+      "updatedAt": "2026-10-29T18:07:46.081Z"
     }
   ],
   "deletedWorkflows": [
@@ -85,6 +95,6 @@
       "lastKnownUpdatedAt": "2026-10-10T13:04:14.664Z"
     }
   ],
-  "lastSuccessfulBackup": "2026-10-27T18:45:43.678Z",
-  "lastWorkflowCount": 14
+  "lastSuccessfulBackup": "2026-10-29T18:08:00.948Z",
+  "lastWorkflowCount": 16
 }
